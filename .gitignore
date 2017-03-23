@@ -1,0 +1,9 @@
+bin/
+/chalumeau
+*.cmi
+*.cmo
+*.cmx
+*.cma
+*.cmxa
+*.o
+*.a
